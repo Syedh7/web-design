@@ -1,2 +1,2 @@
 # web-design
-GMU
+Syed Hashim
